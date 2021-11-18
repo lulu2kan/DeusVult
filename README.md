@@ -14,4 +14,6 @@ Repository for Deus vult team
 | ПП (Программист) | [Чернат](https://github.com/DivineLoggika/Nikolai.github.io) | [Пацюк](https://github.com/NAF-FLY/vadim.github.io)
 | КО (Тех.писатель) | [Заливалов](https://github.com/AlekseyGitPub/aleksey.github.io) | [Чернат](https://github.com/DivineLoggika/Nikolai.github.io)
 
+## [Проект](https://new-project-dc289.web.app/)
+## [Версии проекта](https://github.com/NAF-FLY/IRTProject)
 ## [Документация](https://github.com/lulu2kan/DeusVult/wiki)
